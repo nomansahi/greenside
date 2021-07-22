@@ -1,0 +1,17 @@
+html{
+    scroll-behavior: smooth;
+}
+.bg-image{
+    background-image:url("./images/intro-bg.jpg");
+    width:100%;
+    height:750px;
+    
+}
+.img2{
+    background-image:url("./images/quote-bg.jpg");
+    width:100%;
+    height:300px;
+    background-position:center;
+    background-attachment:fixed;
+
+}
